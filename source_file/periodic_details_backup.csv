@@ -1,0 +1,119 @@
+element_symbol;atomic_number;element_name;atomic_weight;period;e_group;element_condition
+H;1;Hydrogen;1.0078;1;1;Elements_Details
+He;2;Helium;4.0026;1;18;"Noble Gases"
+Li;3;Lithium;6.938;2;1;"Alkalai Metals"
+Be;4;Beryllium;9.0122;2;2;"Alkaline Earth Metals"
+B;5;Boron;10.806;2;13;Metalloids
+C;6;Carbon;12.009;2;14;"Other Nonmetals"
+N;7;Nitrogen;14.006;2;15;"Other Nonmetals"
+O;8;Oxygen;15.999;2;16;"Other Nonmetals"
+F;9;Fluorine;18.998;2;17;Halogens
+Ne;10;Neon;20.180;2;18;"Noble Gases"
+Na;11;Sodium;22.990;3;1;"Alkalai Metals"
+Mg;12;Magnesium;24.305;3;2;"Alkaline Earth Metals"
+Al;13;Aluminium;26.982;3;13;"Post-transition Metals"
+Si;14;Silicon;28.084;3;14;Metalloids
+P;15;Phosphorus;30.974;3;15;"Other Nonmetals"
+S;16;Sulfur;32.059;3;16;"Other Nonmetals"
+Cl;17;Clorine;35.446;3;17;Halogens
+Ar;18;Argon;39.948;3;18;"Noble Gases"
+K;19;Potassium;39.098;4;1;"Alkalai Metals"
+Ca;20;Calcium;40.078;4;2;"Alkaline Earth Metals"
+Sc;21;Scandium;44.956;4;3;"Transition Metals"
+Ti;22;Titanium;47.867;4;4;"Transition Metals"
+V;23;Vanadium;50.942;4;5;"Transition Metals"
+Cr;24;Chromium;51.996;4;6;"Transition Metals"
+Mn;25;Manganese;54.938;4;7;"Transition Metals"
+Fe;26;Iron;55.845;4;8;"Transition Metals"
+Co;27;Cobalt;58.933;4;9;"Transition Metals"
+Ni;28;Nickel;58.693;4;10;"Transition Metals"
+Cu;29;Copper;63.546;4;11;"Transition Metals"
+Zn;30;Zinc;65.38;4;12;"Transition Metals"
+Ga;31;Gallium;69.723;4;13;"Post-transition Metals"
+Ge;32;Germanium;72.63;4;14;Metalloids
+As;33;Arsenic;74.922;4;15;Metalloids
+Se;34;Selenium;78.96;4;16;"Other Nonmetals"
+Br;35;Bromine;79.904;4;17;Halogens
+Kr;36;Krypton;83.798;4;18;"Noble Gases"
+Rb;37;Rubidium;85.468;5;1;"Alkalai Metals"
+Sr;38;Strontium;87.62;5;2;"Alkaline Earth Metals"
+Y;39;Yttrium;88.906;5;3;"Transition Metals"
+Zr;40;Zirconium;91.224;5;4;"Transition Metals"
+Nb;41;Niobium;92.906;5;5;"Transition Metals"
+Mo;42;Molybdenum;95.96;5;6;"Transition Metals"
+Tc;43;Technetium;98.9062;5;7;"Transition Metals"
+Ru;44;Ruthenium;101.07;5;8;"Transition Metals"
+Rh;45;Rhodium;102.91;5;9;"Transition Metals"
+Pd;46;Palladium;106.42;5;10;"Transition Metals"
+Ag;47;Silver;107.87;5;11;"Transition Metals"
+Cd;48;Cadmium;112.41;5;12;"Transition Metals"
+In;49;Indium;114.82;5;13;"Post-transition Metals"
+Sn;50;Tin;118.71;5;14;"Post-transition Metals"
+Sb;51;Antimony;121.76;5;15;Metalloids
+Te;52;Tellurium;127.60;5;16;Metalloids
+I;53;Iodine;126.90;5;17;Halogens
+Xe;54;Xenon;131.29;5;18;"Noble Gases"
+Cs;55;Cesium;132.91;6;1;"Alkalai Metals"
+Ba;56;Barium;137.33;6;2;"Alkaline Earth Metals"
+La;57;Lanthanum;138.91;6;-;Lanthanides
+Ce;58;Cerium;140.12;6;-;Lanthanides
+Pr;59;Praseodymium;140.91;6;-;Lanthanides
+Nd;60;Neodymium;144.24;6;-;Lanthanides
+Pm;61;Promethium;145;6;-;Lanthanides
+Sm;62;Samarium;150.36;6;-;Lanthanides
+Eu;63;Europium;151.96;6;-;Lanthanides
+Gd;64;Gadolinium;157.25;6;-;Lanthanides
+Tb;65;Terbium;154.93;6;-;Lanthanides
+Dy;66;Dysprosium;162.50;6;-;Lanthanides
+Ho;67;Holmium;164.93;6;-;Lanthanides
+Er;68;Erbium;167.26;6;-;Lanthanides
+Tm;69;Thalium;168.93;6;-;Lanthanides
+Yb;70;Ytterbium;173.04;6;-;Lanthanides
+Lu;71;Lutetium;174.97;6;-;Lanthanides
+Hf;72;Hafnium;178.49;6;4;"Transition Metals"
+Ta;73;Tantalum;180.95;6;5;"Transition Metals"
+W;74;Tungsten;183.84;6;6;"Transition Metals"
+Re;75;Rhenium;186.21;6;7;"Transition Metals"
+Os;76;Osmium;190.23;6;8;"Transition Metals"
+Ir;77;Iridium;192.22;6;9;"Transition Metals"
+Pt;78;Platinum;195.08;6;10;"Transition Metals"
+Au;79;Gold;196.97;6;11;"Transition Metals"
+Hg;80;Mercury;200.59;6;12;"Transition Metals"
+Tl;81;Thallium;204.38;6;13;"Post-transition Metals"
+Pb;82;Lead;207.2;6;14;"Post-transition Metals"
+Bi;83;Bismuth;208.98;6;15;"Post-transition Metals"
+Po;84;Polonium;209;6;16;"Post-transition Metals"
+At;85;Astatine;210;6;17;Halogens
+Rn;86;Radon;222;6;18;"Noble Gases"
+Fr;87;Francium;223;7;1;"Alkalai Metals"
+Ra;88;Radium;226;7;2;"Alkaline Earth Metals"
+Ac;89;Actinium;227;7;-;Actinides
+Th;90;Thorium;232.04;7;-;Actinides
+Pa;91;Protactinium;231.04;7;-;Actinides
+U;92;Uranium;238.03;7;-;Actinides
+Np;93;Neptunium;237;7;-;Actinides
+Pu;94;Plutonium;244;7;-;Actinides
+Am;95;Americium;243;7;-;Actinides
+Cm;96;Curium;247;7;-;Actinides
+Bk;97;Berkelium;247;7;-;Actinides
+Cf;98;Californium;251;7;-;Actinides
+Es;99;Einsteinium;252;7;-;Actinides
+Fm;100;Fermium;257;7;-;Actinides
+Md;101;Mendelevium;258;7;-;Actinides
+No;102;Nobelium;259;7;-;Actinides
+Lr;103;Lawrencium;262;7;-;Actinides
+Rf;104;Rutherfordium;261;7;4;"Transition Metals"
+Db;105;Dubnium;262;7;5;"Transition Metals"
+Sg;106;Seaborgium;266;7;6;"Transition Metals"
+Bh;107;Bohrium;264;7;7;"Transition Metals"
+Hs;108;Hassium;269;7;8;"Transition Metals"
+Mt;109;Meitnerium;268;7;9;"Transition Metals"
+Ds;110;Damstadtium;268;7;10;"Transition Metals"
+Rg;111;Roentgenium;268;7;11;"Transition Metals"
+Cn;112;Copernicium;268;7;12;"Transition Metals"
+Uut;113;Ununtrium;268;7;13;"Unknown Properties"
+Fl;114;Flerovium;268;7;14;"Unknown Properties"
+Uup;115;Ununpentium;268;7;15;"Unknown Properties"
+Lv;116;Livermorium;268;7;16;"Unknown Properties"
+Uus;117;Ununseptium;268;7;17;"Unknown Properties"
+Uuo;118;Ununoctium;268;7;18;"Unknown Properties"
